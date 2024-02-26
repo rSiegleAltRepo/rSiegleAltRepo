@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Private Repo for all thing data, data science and other projects using: machine learning, social network analysis, or other data related projects and workflows
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+
 <!--
 **rSiegleAltRepo/rSiegleAltRepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
