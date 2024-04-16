@@ -1,7 +1,7 @@
 ### Hi there visitor👋,
 
 this rSiegleAltRepo, my private repo for all things data, data science and ML. This repo is mainly for personal use and research related data exploration. 
-All related projects are mainly written in Python and R and lean on, regular statistics, SNA (Social Network Analysis), or machine learning workflows.
+All related projects are mainly written in Python and R and lean on, regular statistics, SNA (Social Network Analysis), and or machine learning workflows.
 
 - 🔭 I’m currently working on implementing a automated workflow to log GPU performance data into a database, do some EDA and predict future performance.
 - 🌱 I’m currently also learning more cloud related applications for my code basis.
