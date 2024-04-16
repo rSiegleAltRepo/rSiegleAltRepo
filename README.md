@@ -1,4 +1,4 @@
-### Hi there visitor 👋
+### Hi there visitor👋,
 
 this rSiegleAltRepo, my private repo for all things data, data science and ML. This repo is mainly for personal use and research related data exploration. 
 All related projects are mainly written in Python and R and lean on, regular statistics, SNA (Social Network Analysis), or machine learning workflows.
