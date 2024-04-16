@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-Private Repo for all thing data, data science and other projects using: machine learning, social network analysis, or other data related projects and workflows
+This rSiegleAltRepo, my private Repo for all things data, data science and ML. This repo is for personal use and research related data exploration mainly. 
+All related projects are mainly written in Python and R and lean on, regular statistics, SNA (Social Network Analysis), or machine learning workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on implementing a automated workflow to log GPU performance data on do some EDA and ML optimization on it.
+- 🌱 I’m currently learning more cloud related applications for my code basis.
+- 👯 I’m looking to collaborate on, nothing atm.
 
 <!--
 **rSiegleAltRepo/rSiegleAltRepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
